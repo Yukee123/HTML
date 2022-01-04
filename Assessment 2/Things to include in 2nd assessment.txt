@@ -1,0 +1,6 @@
+1. Homepage
+2. About
+3. Menu
+4. Galary
+5. Anouncement
+It should be written about hotel
